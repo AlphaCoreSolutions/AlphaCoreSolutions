@@ -446,13 +446,13 @@ template {
     .content h1 {
       font-family: Dosis-bold;
       font-size: 61px;
-      line-height: 26px;  
+      line-height: 70px;  
       color: #fff;
       margin-bottom: 50px;
     }
     .content h2 {
       font-size: 33px;
-      line-height: 26px;
+      line-height: 35px;
       color: #fff;
       margin-bottom: 25px;
     }
